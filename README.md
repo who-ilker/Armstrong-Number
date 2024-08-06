@@ -1,0 +1,1 @@
+- A program that asks the user for a number and find out whether this number is Armstrong number or not.
